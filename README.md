@@ -2,6 +2,9 @@
 
 Plugins that turn Claude into a specialist for your role, team, and company. Built for [Claude Cowork](https://claude.com/product/cowork), also compatible with [Claude Code](https://claude.com/product/claude-code).
 
+## Why fork for chinese
+Many connectors and skills are unusable or used differently in china, so I forked a Chinese version to continuously optimize it.
+
 ## Why Plugins
 
 Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose — so your team gets better and more consistent outcomes.
